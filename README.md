@@ -13,10 +13,7 @@
  An example Code for SKMHS22 diffractive PDFs
   
  --    Compile with:
-<<<<<<< HEAD
  --    gfortran SKMHS22.f -L /usr/local/lib -lLHAPDF
-=======
->>>>>>> 9dd104fc370e41b5f158c077bc9562f7a66d237b
 
  ```bash 
  gfortran SKMHS22.f -L /usr/local/lib -lLHAPDF
