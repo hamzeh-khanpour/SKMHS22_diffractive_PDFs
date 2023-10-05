@@ -3,7 +3,9 @@ SKMHS: Global QCD analysis of diffractive parton distribution function
 
 
  Global QCD analysis of diffractive parton distribution function considering higher twist corrections within the xFitter framework
+ 
  Maral Salajegheh, Hamzeh Khanpour, Ulf-G. Meißner, Hadi Hashamipour, Maryam Soleymaninia
+ 
                                e-Print: arXiv:2206.13788 [hep-ph];	Phys.Rev.D 106 (2022) 5, 054012
 
 
