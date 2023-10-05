@@ -6,19 +6,16 @@
  
  Maral Salajegheh, Hamzeh Khanpour, Ulf-G. Meißner, Hadi Hashamipour, Maryam Soleymaninia
  
-                               e-Print: arXiv:2206.13788 [hep-ph];	Phys.Rev.D 106 (2022) 5, 054012
+            e-Print: arXiv:2206.13788 [hep-ph];	Phys.Rev.D 106 (2022) 5, 054012
 
 
 
  An example Code for SKMHS22 diffractive PDFs
   
  --    Compile with:
-<<<<<<< HEAD
  --    gfortran SKMHS22.f -L /usr/local/lib -lLHAPDF
-=======
->>>>>>> 9dd104fc370e41b5f158c077bc9562f7a66d237b
 
  ```bash 
- gfortran SKMHS22.f -L /usr/local/lib -lLHAPDF
+           gfortran SKMHS22.f -L /usr/local/lib -lLHAPDF
 ```
  
