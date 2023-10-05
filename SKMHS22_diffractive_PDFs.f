@@ -23,7 +23,7 @@
        
        character*10 lhaversion
        
-       data Q2/10.0D0/,  nset/1.D0/
+       data Q2/20.0D0/,  nset/1.D0/
 
   !-- Get the LHAPDF version number.
        call getlhapdfversion(lhaversion)
@@ -54,8 +54,8 @@ c     !-- should compute symmetric errors (Alekhin).
        
 
        nx = 1000
-       xminimum = 0.001D0
-       xmaximum = 0.999D0
+       xminimum = 0.0001D0
+       xmaximum = 0.9999D0
        DO ix = 1, nx
          x(ix) = 10.D0**(log10(xminimum) + (ix-1.D0)/(nx-1.D0)*
      -        (log10(xmaximum) - log10(xminimum)))
@@ -78,7 +78,7 @@ c     !-- should compute symmetric errors (Alekhin).
         
        end do
        
-       open (10, file='xg-SKMHS22-tw2-NLO-Q2-10GeV2.dat')
+       open (10, file='xg-SKMHS22-tw2-NLO-Q2-20GeV2.dat')
        
 
        call GetPDFuncertaintyM(nset,xs,xf0,xfp,xfm,xfs)
