@@ -16,6 +16,6 @@
  --    gfortran SKMHS22.f -L /usr/local/lib -lLHAPDF
 
  ```bash 
-            gfortran SKMHS22.f -L /usr/local/lib -lLHAPDF
+           gfortran SKMHS22.f -L /usr/local/lib -lLHAPDF
 ```
  
