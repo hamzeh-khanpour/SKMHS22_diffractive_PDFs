@@ -1,5 +1,5 @@
-# SKMHS_diffractive_PDFs
-# SKMHS: Global QCD analysis of diffractive parton distribution function
+# SKMHS22_diffractive_PDFs
+# SKMHS22: Global QCD analysis of diffractive parton distribution function
 
 
  Global QCD analysis of diffractive parton distribution function considering higher twist corrections within the xFitter framework
