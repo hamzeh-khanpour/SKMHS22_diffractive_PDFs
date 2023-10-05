@@ -6,7 +6,7 @@
  
  Maral Salajegheh, Hamzeh Khanpour, Ulf-G. Meißner, Hadi Hashamipour, Maryam Soleymaninia
  
-                               e-Print: arXiv:2206.13788 [hep-ph];	Phys.Rev.D 106 (2022) 5, 054012
+e-Print: arXiv:2206.13788 [hep-ph];	Phys.Rev.D 106 (2022) 5, 054012
 
 
 
