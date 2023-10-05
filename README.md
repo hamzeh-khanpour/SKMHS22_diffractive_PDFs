@@ -12,5 +12,4 @@ SKMHS: Global QCD analysis of diffractive parton distribution function
   
  --    Compile with:
  --    gfortran SKMHS22.f -L /usr/local/lib -lLHAPDF
- ---------------------------------------
 
